@@ -30,4 +30,4 @@ Research and signals for NSE and BSE swing trades: price, fundamentals, news sen
 
 Python and TypeScript. vLLM for the serving measurements. VS Code extension APIs and Cursor hooks for the agent tools.
 
-[X @devps03](https://x.com/devps03)
+[LinkedIn](https://www.linkedin.com/in/dev-pratap-singh-6017b8223) · [X @devps03](https://x.com/devps03)
