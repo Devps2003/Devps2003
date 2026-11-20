@@ -1,3 +1,3 @@
-<a href="https://dev-notekeep.vercel.app"><img src="notes.png" width="100%" alt="Dev Pratap Singh, Mumbai. Notes. What I'm studying, at dev-notekeep.vercel.app. Transformers, 18 Nov 2026: from RNNs to the architecture behind modern LLMs. PagedAttention, 15 Nov 2026: the paper that made LLM inference click for me. After that paper, I measured a tool pause on stock vLLM. The write-up sits with the code."></a>
+<a href="https://dev-notekeep.vercel.app"><img src="mark.png" width="100%" alt="NOTES. Dev Pratap Singh. What I'm studying, at dev-notekeep.vercel.app. Transformers. PagedAttention."></a>
 
 [Transformers](https://dev-notekeep.vercel.app/transformers) · [PagedAttention](https://dev-notekeep.vercel.app/pagedattention-notes) · [The measurement](https://devps2003.github.io/agent-session-bench/) · [X](https://x.com/devps03)
